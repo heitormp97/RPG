@@ -1,0 +1,15 @@
+C:\Users\heito\Documents\developer\Rpg\bin\Debug\net6.0\Rpg.exe
+C:\Users\heito\Documents\developer\Rpg\bin\Debug\net6.0\Rpg.deps.json
+C:\Users\heito\Documents\developer\Rpg\bin\Debug\net6.0\Rpg.runtimeconfig.json
+C:\Users\heito\Documents\developer\Rpg\bin\Debug\net6.0\Rpg.dll
+C:\Users\heito\Documents\developer\Rpg\bin\Debug\net6.0\Rpg.pdb
+C:\Users\heito\Documents\developer\Rpg\obj\Debug\net6.0\Rpg.csproj.AssemblyReference.cache
+C:\Users\heito\Documents\developer\Rpg\obj\Debug\net6.0\Rpg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heito\Documents\developer\Rpg\obj\Debug\net6.0\Rpg.AssemblyInfoInputs.cache
+C:\Users\heito\Documents\developer\Rpg\obj\Debug\net6.0\Rpg.AssemblyInfo.cs
+C:\Users\heito\Documents\developer\Rpg\obj\Debug\net6.0\Rpg.csproj.CoreCompileInputs.cache
+C:\Users\heito\Documents\developer\Rpg\obj\Debug\net6.0\Rpg.dll
+C:\Users\heito\Documents\developer\Rpg\obj\Debug\net6.0\refint\Rpg.dll
+C:\Users\heito\Documents\developer\Rpg\obj\Debug\net6.0\Rpg.pdb
+C:\Users\heito\Documents\developer\Rpg\obj\Debug\net6.0\Rpg.genruntimeconfig.cache
+C:\Users\heito\Documents\developer\Rpg\obj\Debug\net6.0\ref\Rpg.dll
